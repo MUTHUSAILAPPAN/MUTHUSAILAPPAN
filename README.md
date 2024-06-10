@@ -1,6 +1,4 @@
 - 👋 Hey, I’m @MUTHUSAILAPPAN
--  I’m not interested in anything
--  I’m currently learning nothing
 
 
 <!---
